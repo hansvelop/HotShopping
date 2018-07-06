@@ -6,8 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Folder Structure
 
 ```
-README.md
-back-end
 front-end/
   README.md
   package.json
