@@ -30,16 +30,20 @@ front-end/
     test.js
   src/
     components/
-        atoms/
-        molecules/
-        organisms/
-        pages/
-        templates/
-        App.js
-        App.test.js
-        index.js
-    containers/z
+      atoms/
+      molecules/
+      organisms/
+      pages/
+      templates/
+      App.js
+      App.test.js
+      index.js
+    containers/
     static/
+    store/
+      modules/
+      configure.js
+      index.js
     styles/
     index.js
 ```
