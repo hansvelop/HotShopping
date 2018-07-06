@@ -11,22 +11,36 @@ back-end
 front-end/
   README.md
   package.json
+  config/
+    jest/
+      cssTransform.js
+      fileTransform.js
+    env.js
+    paths.js
+    polyfills.js
+    webpack.config.dev.js
+    webpack.config.prod.js
+    webpackDevServer.config.js
   public/
     index.html
     favicon.ico
+  scripts/
+    starts.js
+    build.js
+    test.js
   src/
     components/
-        atoms
-        molecules
-        organisms
-        pages
-        templates
+        atoms/
+        molecules/
+        organisms/
+        pages/
+        templates/
         App.js
         App.test.js
         index.js
-    containers
-    static
-    styles
+    containers/z
+    static/
+    styles/
     index.js
 ```
 ##  Stack
