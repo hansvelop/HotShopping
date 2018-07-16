@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-## Base Proejct
- - 빠른 개인 프로젝트 시작을 위한 기본 세팅 프로젝트
+## React Project
 
 ## Folder Structure
 
