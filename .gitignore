@@ -9,6 +9,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.settings
 
 ### IntelliJ IDEA ###
 .idea
@@ -23,3 +24,4 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+.vscode/settings.json
